@@ -1,16 +1,15 @@
-### Hi there 👋
+## *Tech Stack*
+[//]: # (Default Form)
+[//]: # (https://img.shields.io/badge/<LABEL>-<MESSAGE>-<BACKGROUND-COLOR>?logo=<LOGO>&logoColor=<LOGO-COLOR>&style=<STYLE>)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<!--
-**miinngdok/miinngdok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge)
 
-Here are some ideas to get you started:
+## *GitHub Stats*
+[//]: # (Theme Options)
+![github stats](https://github-readme-stats.vercel.app/api?username=miinngdok)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *BOJ*
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdi97asd)](https://solved.ac/profile/kdi97asd)
